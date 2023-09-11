@@ -1,5 +1,5 @@
 # simple_login_app
-This is a sample Flutter Porject for Patrol Testing
+This is a sample Flutter Project for Patrol Testing
 
 1. Clone the repo
 2. Go to the root
